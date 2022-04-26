@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DBHelper2 extends SQLiteOpenHelper {
 
-    public static final String database_name = "db_vswbookstore";
+    public static final String database_name = "db_axelbookstore";
     public static final String tabel_name = "table_buku";
 
     public static final String row_id = "_id";
